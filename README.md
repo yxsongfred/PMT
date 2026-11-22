@@ -13,7 +13,7 @@ See details in [PMT-supp.pdf](https://github.com/yxsongfred/PMT/blob/main/PMT-su
 ## Citation
 ```
 @inproceedings{song2026product,
-    title={Learning to Compute Polynomial Products with Transformers},
+    title={Learning to Compute Polynomial Products with {Transformers}},
     author={Yuxuan Song and Bin Wang and Changbo Chen},
     year={2026},
     booktitle={RISC Proceedings on Symbolic Computation and Machine Learning},
